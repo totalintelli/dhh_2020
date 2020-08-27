@@ -36,7 +36,7 @@
 - Library : Tensorflow, Keras
 - Editor : Jupyter notebook 
 
-## Rule(규칙)
+## Rule
 
 ### [데이터 셋](https://www.digitalhealthhack.org/ai-1)
 
