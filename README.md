@@ -15,6 +15,7 @@
 
 - [Project Introduction](#Project-Introduction)
 - [Project Development Environment and Language](#Project-Development-Environment-and-Language)
+- [Rule](#Rule)
 - [About the Contributor](#About-the-Contributor)
 
 
@@ -34,7 +35,13 @@
 - Library : Tensorflow, Keras
 - Editor : Jupyter notebook 
 
+## Rule(규칙)
 
+### 데이터 셋
+
+- Training Data
+  - trainX.csv
+    - 0 ~ 1 사이의 continuous data이며, 환자들의 상태를 표현합니다.
 
 ## About the Contributor
 
