@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="" alt="cureD logo" width="200" height="200">
+    <img src="https://github.com/totalintelli/dhh_2020/blob/master/logo3.png?raw=true" alt="cureD logo" width="200" height="200">
 </p>
 
 <h3 align="center">cureD</h3>
