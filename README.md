@@ -17,6 +17,7 @@
 - [Project Development Environment and Language](#Project-Development-Environment-and-Language)
 - [Rule](#Rule)
 - [About the Contributor](#About-the-Contributor)
+- [License](#License)
 
 
 ## Project Introduction
