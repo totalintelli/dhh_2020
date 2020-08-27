@@ -52,11 +52,11 @@
 
 **Hyung Jo Yang**
 - [**@**](https://github.com/)   
-- <csipms1023@gmail.com>  
+- <xxx@gmail.com>  
 
 **Yekaterina Kim**
 - [**@**](https://github.com/)
-- <coko980715@gmail.com>
+- <xxx@gmail.com>
 
 **Yong Dan Song**
 - [**@totalintelli**](https://github.com/totalintelli)
