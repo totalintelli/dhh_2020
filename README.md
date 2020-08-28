@@ -30,7 +30,7 @@
 
 
 
-## Project Development Environment and Language
+## Dependencies
 - OS : Windows10
 - Language : Python
 - Library : Tensorflow, Keras
