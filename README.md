@@ -4,7 +4,7 @@
     <img src="https://github.com/totalintelli/dhh_2020/blob/master/logo3.png?raw=true" alt="cureD logo" width="200" height="200">
 </p>
 
-  CURED is software that applies the rare cancer drug treatment decision-making AI model.
+  CURED is software that applies the rare cancer drug treatment decision-making AI model.<br/>
   CURED는 희귀암 약물 치료 의사 결정 AI 모델을 적용한 소프트웨어입니다.
    
  
