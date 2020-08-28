@@ -33,7 +33,7 @@
 ## Dependencies
 - OS : Windows10
 - Language : Python
-- Library : Tensorflow, Keras
+- Library : Tensorflow 2.3.0, Keras 2.4.3
 - Editor : Jupyter notebook 
 
 ## Rule
