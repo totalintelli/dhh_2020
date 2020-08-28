@@ -14,7 +14,7 @@
 ## Table of Contents
 
 - [Project Introduction](#Project-Introduction)
-- [Project Development Environment and Language](#Project-Development-Environment-and-Language)
+- [Dependencies](#Dependencies)
 - [Rule](#Rule)
 - [About the Contributor](#About-the-Contributor)
 - [License](#License)
